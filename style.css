@@ -12708,13 +12708,16 @@ button.close {
     /*opacity: 0.7*/
 }
 
-#skroll-background-intro>div {
+/*#skroll-background-intro>div {
     background-image: url(/img/background/5.jpg)
-}
+}*/
+
 
 #intro {
+  background-image: url(/img/background/5.jpg);
     background-color: #0c628c !important;
-    background-size: cover
+    background-size: cover;
+    background-position: center;
 }
 
 #ben_jones {
